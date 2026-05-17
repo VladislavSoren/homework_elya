@@ -81,3 +81,6 @@ https://git-scm.com/book/ru/v2/Основы-Git-Запись-изменений-
 Введите число: -3 → negative
 Введите число: 0 → zero
 """
+
+
+print(123)
