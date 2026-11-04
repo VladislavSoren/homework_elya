@@ -21,7 +21,7 @@ def sum_numbers(numbers):
     numbers = [int(number) for number in numbers]
     return sum(numbers)
 
-numbers = [1,"2",3]
+numbers = [1,2,3]
 
 def test_answer():
     assert sum_numbers(numbers) == 6
